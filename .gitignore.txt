@@ -1,0 +1,8 @@
+*.iso
+*.ova
+*.vdi
+*.vmdk
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
